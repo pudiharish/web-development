@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--image-->
+    <img src="C:\Users\MY PC\Downloads\packetprep img.html" width-250 height=200</img>
+    <!--hyperlink-->
+    <a href="https:packetprep.com/" target="_blank">packetprep</a>
+    <1--images-->
+    <img src="./images/"C:\Users\MY PC\Downloads\packetprep img.html"width="150px" height="128px" alt="HTML">
+    <!--lists-->
+    <!--ordered lists-->
+    <ol>
+     <li>Home</li>
+     <li>About</li>
+     <li>Blog</li>
+</ol>
+<!--unordered lists-->
+<ul>
+<ul style-"list-style-type: square;">  
+    <li>HTML</li>
+    <li>css</li>
+    <li>JS</li>
+</ul>
+<!--description lists-->
+<dl>
+    <dt>Courses</dt>
+    <dd>PTE</dd>
+    <dd>OET</dd>
+    <dt>Fruits</dt>
+    <dd>Mango</dd>
+    <dd>Apple</dd>
+</dl>
+</body>
+</html>
+
+
+
+
+
